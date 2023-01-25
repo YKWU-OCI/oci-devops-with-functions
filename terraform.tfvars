@@ -5,7 +5,7 @@ fingerprint          = "88:0f:32:02:8a:c7:04:0e:43:93:05:b1:2a:90:e7:23"
 private_key_path     = "~"
 
 # Region
-region = 	ap-sydney-1
+region = 	"ap-sydney-1"
 
 # Compartment
 compartment_ocid = "ocid1.compartment.oc1..aaaaaaaaihgj4bu4ljosgxdjzf7dtk2b6x6uw5sap5warwkto2ed75taddga"
