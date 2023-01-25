@@ -6,7 +6,8 @@ private_key_path     = "~"
 
 # Region
 region = 	"ap-sydney-1"
-
+home_region = "us-ashburn-1"
+oci_identity_regions = "us-ashburn-1"
 # Compartment
 compartment_ocid = "ocid1.compartment.oc1..aaaaaaaaihgj4bu4ljosgxdjzf7dtk2b6x6uw5sap5warwkto2ed75taddga"
 
